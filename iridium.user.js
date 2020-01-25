@@ -1,15 +1,18 @@
 // ==UserScript==
-// @version         0.2.5
+// @version         0.2.5.1
 // @name            Iridium
-// @namespace       https://github.com/ParticleCore
+// @namespace       https://github.com/maxkorsov
 // @description     YouTube with more freedom
+// @author          maxkorsov (Forked from ParticleCore/Iridium)
 // @compatible      firefox
 // @compatible      chrome
-// @icon            https://raw.githubusercontent.com/ParticleCore/Iridium/gh-pages/images/i-icon.png
+// @icon            https://raw.githubusercontent.com/maxkorsov/iridium/master/icons/16.png
+// @icon64          https://raw.githubusercontent.com/maxkorsov/iridium/master/icons/64.png
 // @match           *://www.youtube.com/*
 // @run-at          document-start
-// @homepageURL     https://github.com/ParticleCore/Iridium
-// @supportURL      https://github.com/ParticleCore/Iridium/wiki
+// @homepageURL     https://github.com/maxkorsov/iridium
+// @supportURL      https://github.com/maxkorsov/iridium/wiki
+// @downloadURL     https://github.com/maxkorsov/iridium/raw/master/iridium.user.js
 // @contributionURL https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=UMVQJJFG4BFHW&lc=US
 // @grant           GM.getValue
 // @grant           GM.setValue
@@ -4253,7 +4256,7 @@
                     },
                     google_api_locale: "",
                     fetchingLocale: false,
-                    locale_base_url: "https://api.github.com/repos/ParticleCore/Iridium/contents/i18n/",
+                    locale_base_url: "https://api.github.com/repos/maxkorsov/iridium/contents/i18n/",
                     saveLanguage: function (message) {
 
                         var locale_updated;
@@ -4607,7 +4610,7 @@
                                 "        <div data-locale='text|settings_instruction'></div>" +
                                 "        <hr style='opacity:0;'/>" +
                                 "        <div style='display:inline;' data-locale='text|features_instruction'></div>" +
-                                "        <a href='https://github.com/ParticleCore/Iridium/wiki/Features' target='_blank' data-locale='text|features_link'></a>" +
+                                "        <a href='https://github.com/maxkorsov/iridium/wiki/Features' target='_blank' data-locale='text|features_link'></a>" +
                                 "        <hr style='opacity:0;'/>" +
                                 "        <div data-locale='text|donate_instruction'></div>" +
                                 "        <hr style='opacity:0;'/>" +
@@ -4958,7 +4961,7 @@
 
                             help_link             = document.createElement("a");
                             help_link.textContent = "?";
-                            help_link.href        = "https://github.com/ParticleCore/Iridium/wiki/Features#" + option.id;
+                            help_link.href        = "https://github.com/maxkorsov/iridium/wiki/Features#" + option.id;
                             help_link.setAttribute("title", i18n.iridium_api.feature_link);
                             help_link.className = "feature-link";
                             help_link.setAttribute("target", "features");
@@ -5605,7 +5608,7 @@
                 holder      = document.createElement("link");
                 holder.rel  = "stylesheet";
                 holder.type = "text/css";
-                holder.href = "https://particlecore.github.io/Iridium/css/Iridium.css?v=" + this.GM.info.script.version;
+                holder.href = "https://maxkorsov.github.io/iridium/css/iridium.css?v=" + this.GM.info.script.version;
                 document.documentElement.appendChild(holder);
 
             }
