@@ -24,7 +24,7 @@ Features highlight:
 - Control comment section visibility
 - and many more!
 
-**[Download](https://github.com/maxkorsov/iridium/wiki/Download) | [Features](https://github.com/maxkorsov/iridium/wiki/Features)**
+**[Download](https://github.com/maxkorsov/iridium/raw/master/iridium.user.js) | [Features](https://github.com/maxkorsov/iridium/wiki/Features)**
 
 ---
 
