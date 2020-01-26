@@ -32,6 +32,6 @@ Current support is only being offered for Firefox and Chrome browsers.
 
 ***[ParticleCore](https://github.com/ParticleCore) stopped developing and updating this javascript application for YouTube.***
 
-*Now, starting with Iridium version 1.0 by [ParticleCore](https://github.com/ParticleCore), the development is only the version for the extension Firefox. (Development is slow and there are still not many features.)*
+*Now, starting with **Iridium version 1.0 by [ParticleCore](https://github.com/ParticleCore)**, the development is **only** the version for the extension **Firefox**. (Development is slow and there are still not many features.)*
 
 ***!!! Attention*** *all links to [Donate](https://github.com/maxkorsov/iridium/wiki/Donate) on this site and in Iridium app are saved and belong to [ParticleCore](https://github.com/ParticleCore). If you wish, you can thank [ParticleCore](https://github.com/ParticleCore) for his excellent work.*
