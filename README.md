@@ -6,6 +6,8 @@ Iridium (former [YouTube Plus](https://github.com/ParticleCore/Particle)) is an 
 
 **Iridium v.0.2.5 is the LATEST, FULL and STABLE working version.**
 
+*Restored and retained all the functionality.*
+
 Features highlight:
 - Play your videos in a pop-out window
 - Turn off 60fps
