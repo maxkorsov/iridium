@@ -2,7 +2,7 @@
 
 Iridium (former [YouTube Plus](https://github.com/ParticleCore/Particle)) is an extension built to improve the user experience on the new YouTube Material layout.
 
-**Fork Iridium.user.js v.0.2.5 (by [ParticleCore](https://github.com/ParticleCore))**
+**Forked Iridium.user.js [0.2.5](https://github.com/ParticleCore/Iridium/releases/tag/0.2.5) (by [ParticleCore](https://github.com/ParticleCore))**
 
 **Iridium v.0.2.5 is the LATEST, FULL and STABLE working version.**
 
