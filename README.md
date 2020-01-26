@@ -30,4 +30,4 @@ Features highlight:
 
 ***[ParticleCore](https://github.com/ParticleCore) stopped developing and updating this javascript application for YouTube.*** *Now, starting with version 1.0, only the version for expanding the Firefox browser is being developed. (Development is slow and there are still not many features.)*
 
-***!!! Attention*** *all links to [Donate](https://github.com/maxkorsov/iridium/wiki/Donate) on this site and in Iridium app are saved and belong to ParticleCore. If you wish, you can thank ParticleCore for his excellent work.*
+***!!! Attention*** *all links to [Donate](https://github.com/maxkorsov/iridium/wiki/Donate) on this site and in Iridium app are saved and belong to [ParticleCore](https://github.com/ParticleCore). If you wish, you can thank [ParticleCore](https://github.com/ParticleCore) for his excellent work.*
