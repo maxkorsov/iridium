@@ -26,7 +26,7 @@ Features highlight:
 
 Current support is only being offered for Firefox and Chrome browsers.
 
-**[Download](https://github.com/maxkorsov/iridium/raw/master/iridium.user.js) | [Features](https://github.com/maxkorsov/iridium/wiki/Features)**
+**[Download](https://github.com/maxkorsov/iridium/raw/master/iridium.user.js) | [Manual](https://github.com/maxkorsov/iridium/wiki/Manual) | [Features](https://github.com/maxkorsov/iridium/wiki/Features)**
 
 ---
 
