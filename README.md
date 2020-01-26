@@ -1,4 +1,4 @@
-# Iridium v.0.2.5
+# Iridium [![current version](https://img.shields.io/github/release/maxkorsov/iridium/all.svg)](https://github.com/maxkorsov/iridium/releases/latest)
 
 Iridium (former [YouTube Plus](https://github.com/ParticleCore/Particle)) is an extension built to improve the user experience on the new YouTube Material layout.
 
