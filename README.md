@@ -24,6 +24,8 @@ Features highlight:
 - Control comment section visibility
 - and many more!
 
+Current support is only being offered for Firefox and Chrome browsers.
+
 **[Download](https://github.com/maxkorsov/iridium/raw/master/iridium.user.js) | [Features](https://github.com/maxkorsov/iridium/wiki/Features)**
 
 ---
