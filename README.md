@@ -6,6 +6,22 @@ Iridium (former [YouTube Plus](https://github.com/ParticleCore/Particle)) is an 
 
 **Iridium v.0.2.5 is the LATEST, FULL and STABLE working version.**
 
+Features highlight:
+- Play your videos in a pop-out window
+- Turn off 60fps
+- Allow ads only in videos from your subscribed channels
+- Blacklist entire channels from your suggestions and search results
+- Make the player fill the entire browser with the Fullbrowser mode feature
+- Player always visible where you want while reading the comments
+- Player always playing while navigating away from the video page
+- Reverse any playlist
+- Take video screenshots and save them
+- View and save the video thumbnail like old times
+- Bring back the total number of videos uploaded by the creator
+- Use the relative video post time to know quickly how old the video is
+- Control comment section visibility
+- and many more!
+
 **[Download](https://github.com/maxkorsov/iridium/wiki/Download) | [Features](https://github.com/maxkorsov/iridium/wiki/Features)**
 
 *[ParticleCore](https://github.com/ParticleCore) stopped developing and updating this **javascript** application for YouTube. Now, starting with version 1.0, only the version for expanding the Firefox browser is being developed. (Development is slow and there are still not many features.)*
