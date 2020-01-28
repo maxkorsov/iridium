@@ -4,8 +4,6 @@ Iridium (former [YouTube Plus](https://github.com/ParticleCore/Particle)) is an 
 
 **Forked Iridium.user.js [0.2.5](https://github.com/ParticleCore/Iridium/releases/tag/0.2.5) by [ParticleCore](https://github.com/ParticleCore)**
 
-**Iridium [![current version](https://img.shields.io/github/release/maxkorsov/iridium/all.svg)](https://github.com/maxkorsov/iridium/releases/latest) is the LATEST, FULL and STABLE working version.**
-
 *Restored and retained all the functionality.*
 
 Features highlight:
